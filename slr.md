@@ -2,10 +2,10 @@
 
 #over Jeroen
 
-**Voornaam:** Jeroen
+**Voornaam:** Tom
 
-**Achternaam:** Slemmer
+**Achternaam:** van den Berg
 
-**E-mail adres:** [Jeroen Slemmer](jslemmer@davinci.nl)
+**E-mail adres:** [Tom van den Berg](tomtomistomtom@gmail.com)
 
-**Telefoon:** 0612345678
+**Telefoon:** 063435234
